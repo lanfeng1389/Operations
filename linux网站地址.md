@@ -152,3 +152,6 @@
 **37.查国外天气**
 
 [**https://www.meteoblue.com**](https://www.meteoblue.com)
+
+38. k8s免费练习地址
+https://killercoda.com
